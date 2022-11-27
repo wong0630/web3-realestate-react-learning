@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web3-realestate-react-learning/static/css/main.e8944133.css",
+    "main.js": "/web3-realestate-react-learning/static/js/main.ecb6b76f.js",
+    "static/media/houses.png": "/web3-realestate-react-learning/static/media/houses.4d3bb237fb5a23c27d5a.png",
+    "static/media/logo.svg": "/web3-realestate-react-learning/static/media/logo.d723edf07b3a4df9be9647ffbe504ad1.svg",
+    "index.html": "/web3-realestate-react-learning/index.html",
+    "static/media/close.svg": "/web3-realestate-react-learning/static/media/close.ae469738e479d31aa952364e12120ad2.svg",
+    "main.e8944133.css.map": "/web3-realestate-react-learning/static/css/main.e8944133.css.map",
+    "main.ecb6b76f.js.map": "/web3-realestate-react-learning/static/js/main.ecb6b76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8944133.css",
+    "static/js/main.ecb6b76f.js"
+  ]
+}
